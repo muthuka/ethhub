@@ -4,7 +4,7 @@ description: There are a number of identity related Ethereum standards under dev
 
 # ERC-EIP
 
-There are a number of identity related Ethereum standards under development, in addition to [ERC725 and 735](ERC725), :
+There are a number of identity related Ethereum standards under development, in addition to [ERC725 and 735](https://docs.ethhub.io/built-on-ethereum/identity/ERC725/), :
 
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
